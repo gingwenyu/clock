@@ -10,7 +10,7 @@
   width:500px; 
   height:500px;  
 }
-/*指針圓心對齊方式 待修改*/
+
 #second{
      height:24%;  
      width:1px;    
@@ -25,7 +25,7 @@
      transform-origin: 50% 100%;   
      position: relative; 
      left:250px;
-     top:30px;
+     top:25px;  
 }
 #hour{
      height:15%;
